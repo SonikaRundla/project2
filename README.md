@@ -1,5 +1,5 @@
 # project2
-**Important Points for Your Stone Paper Scissors Game Project (HTML/CSS/JS)**
+**Important Points for Your Rock Paper Scissors Game Project**
 1.Project Title
 Rock Paper Scissors – A Simple Web-Based Game
 
